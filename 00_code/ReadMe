@@ -1,0 +1,7 @@
+What are the individual files doing?
+
+
+SFM.ipynb:          Main code that runs the analysis
+
+
+auxiliaries.py:     Auxiliary-functions that the main-code refers to    
