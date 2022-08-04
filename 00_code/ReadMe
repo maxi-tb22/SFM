@@ -1,7 +1,10 @@
 What are the individual files doing?
 
 
-SFM.ipynb:              Main code that runs the analysis ---> Click on the 'CoLab' icon to open and run it on Google CoLab
+SFM.ipynb:              Main code that runs the analysis 
+                        
+                        Issue:      It's very jittery when you open it on GitHub
+                        Solution:   Click on the 'CoLab' icon at the very top to open and run it on Google CoLab
 
 
 auxiliaries_SFM.py:     Auxiliary-functions that the main-code refers to    
