@@ -9,5 +9,5 @@ It's first application is in the form of a Bayesian Logistic Regression model th
 
 Access: &emsp;   10_data/SFM.ipynb <br>
 Note:   &emsp;&emsp;    It was originally written in Google-CoLab. So you get the best user-experience <br>
-&emsp;&emsp;&emsp;&emsp;&ensp; by clicking on the 'CoLab'-icon and the very top.
+&emsp;&emsp;&emsp;&ensp;&ensp;&ensp; by clicking on the 'CoLab'-icon and the very top.
 
