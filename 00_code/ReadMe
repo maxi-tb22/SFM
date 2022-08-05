@@ -3,7 +3,8 @@ What are the individual files doing?
 
 SFM.ipynb:              Main code that runs the analysis 
                         
-                        Issue:      It's very jittery when you open it on GitHub
+                        Issue:      It was originally written in Google-CoLab. So there might be some layout-issues
+                                    when opening it in certain browsers.
                         Solution:   Click on the 'CoLab' icon at the very top to open and run it on Google CoLab
 
 
