@@ -1,7 +1,7 @@
 What are the individual files doing?
 
 
-SFM.ipynb:              Main code that runs the analysis 
+SFM.ipynb:              Main code to runs the analysis. 
                         
                         Issue:      It was originally written in Google-CoLab. So there might be some layout-issues
                                     when opening it in certain browsers.
