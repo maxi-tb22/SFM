@@ -1,10 +1,11 @@
-In this folder you find the redacted version of the Soccer-Factor-Model (SFM). 
+In this folder you find the redacted & unredacted version of the Soccer-Factor-Model (SFM). 
 
-On July 17th 2023, there will be a live session at PyMCon, where:
+The redacted version might serve as a tool to learn how to implement a Bayesian Logistic Regression in python with PyMC.
+The redacted version includes several tasks -- with hints, which may help or not ... -- asking you to code yourself.
+The unredacted version then serves as a tentative solution, to which you can compare your own specification -- and hopefully achieve better results than I did!
 
-- I will provide solutions to the coding tasks.
-- I will answer any questions regarding the notebook or the SFM itself.
 
+You can also find the recording of the PyMCon seminar (July, 17th 2023), in which I discussed this very notebook, via the following link: https://pymcon.com/events/
 
 If you have any questions, feel free to reach out at: maximilian.goebel[at]unibocconi.it
 
