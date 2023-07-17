@@ -1,7 +1,10 @@
 In this folder you find the redacted & unredacted version of the Soccer-Factor-Model (SFM). 
 
-The redacted version might serve as a tool to learn how to implement a Bayesian Logistic Regression in python with PyMC.
-The redacted version includes several tasks -- with hints, which may help or not ... -- asking you to code yourself.
+The redacted version: 
+
+  - might serve as a tool to learn how to implement a Bayesian Logistic Regression in python with PyMC.
+  - includes several tasks -- with hints, which may help or not ... -- asking you to code yourself.
+
 The unredacted version then serves as a tentative solution, to which you can compare your own specification -- and hopefully achieve better results than I did!
 
 
